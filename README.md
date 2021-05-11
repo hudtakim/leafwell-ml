@@ -5,4 +5,4 @@ Agar dataset terbaca, gunakan struktur folder dan file sebagai berikut:
 - Your Current Dir:
   - main.ipnyb
   - Dataset Medicinal:
-    - dataset.zip (zip yang didownload dari mendeley) 
+    - dataset_medicinal_leaf.zip (zip yang didownload dari mendeley) 
